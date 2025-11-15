@@ -1,7 +1,8 @@
 {
   "colors" : [
     {
-      "idiom" : "universal"
+      "idiom" : "universal",
+      "SMI.surface" : "#032d60"
     }
   ],
   "info" : {
